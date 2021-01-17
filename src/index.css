@@ -1,0 +1,7 @@
+.ui.form .field .ui.input, .ui.form .fields .field .ui.input, .ui.form .wide.field .ui.input {
+    /* width: 121%; */
+    right: -2vw;
+}
+.ui.form .field .ui.input, .ui.form .fields .field .ui.input, .ui.form .wide.field .ui.input {
+    width: 111% !important;
+    right: 1vw !important;}
