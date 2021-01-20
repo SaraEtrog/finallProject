@@ -1,0 +1,593 @@
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\ui.dll.config
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\ui.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\ui.pdb
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\csc.exe
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\csc.exe.config
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\csc.rsp
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\csi.exe
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\csi.exe.config
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\csi.rsp
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\Microsoft.Managed.Core.targets
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.AppContext.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Collections.Immutable.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Console.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.IO.Compression.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.IO.FileSystem.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.IO.Pipes.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Reflection.Metadata.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Security.AccessControl.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Security.Claims.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Security.Principal.Windows.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.ValueTuple.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Xml.XmlDocument.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Xml.XPath.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\vbc.exe
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\vbc.exe.config
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\vbc.rsp
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\VBCSCompiler.exe
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\roslyn\VBCSCompiler.exe.config
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\Antlr3.Runtime.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\Microsoft.Web.Infrastructure.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\Newtonsoft.Json.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Net.Http.Formatting.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Helpers.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Http.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Http.WebHost.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Mvc.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Optimization.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Razor.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.WebPages.Deployment.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.WebPages.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.WebPages.Razor.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\WebGrease.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\Newtonsoft.Json.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Net.Http.Formatting.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Helpers.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Http.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Http.WebHost.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Mvc.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Optimization.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.Razor.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.WebPages.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.WebPages.Deployment.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\System.Web.WebPages.Razor.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\Antlr3.Runtime.pdb
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\obj\Debug\ui.csprojAssemblyReference.cache
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\obj\Debug\ui.csproj.CoreCompileInputs.cache
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\obj\Debug\ui.csproj.CopyComplete
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\obj\Debug\ui.dll
+F:\יעלי\קורס קיץ תיכנות\יעלי\ui\ui\obj\Debug\ui.pdb
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\ui.dll.config
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\ui.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\ui.pdb
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\csc.exe
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\csc.exe.config
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\csc.rsp
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\csi.exe
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\csi.exe.config
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\csi.rsp
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\Microsoft.Managed.Core.targets
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.AppContext.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Collections.Immutable.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Console.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.IO.Compression.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.IO.FileSystem.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.IO.Pipes.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Reflection.Metadata.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Security.AccessControl.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Security.Claims.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Security.Principal.Windows.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.ValueTuple.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Xml.XmlDocument.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Xml.XPath.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\vbc.exe
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\vbc.exe.config
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\vbc.rsp
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\VBCSCompiler.exe
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\roslyn\VBCSCompiler.exe.config
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\Antlr3.Runtime.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\BL.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\dto.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\EntityFramework.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\EntityFramework.SqlServer.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\Microsoft.Web.Infrastructure.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\Newtonsoft.Json.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Net.Http.Formatting.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Cors.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Helpers.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Http.Cors.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Http.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Http.WebHost.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Mvc.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Optimization.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Razor.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.WebPages.Deployment.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.WebPages.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.WebPages.Razor.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\WebGrease.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\DAL.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\BL.pdb
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\BL.dll.config
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\dto.pdb
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\EntityFramework.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\EntityFramework.SqlServer.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Net.Http.Formatting.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Http.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Http.Cors.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\Newtonsoft.Json.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Helpers.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Http.WebHost.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Mvc.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Optimization.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.Razor.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.WebPages.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.WebPages.Deployment.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\System.Web.WebPages.Razor.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\Antlr3.Runtime.pdb
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\DAL.pdb
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\bin\DAL.dll.config
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\obj\Debug\UI.csprojAssemblyReference.cache
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\obj\Debug\UI.csproj.CoreCompileInputs.cache
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\obj\Debug\UI.csproj.CopyComplete
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\obj\Debug\ui.dll
+F:\יעלי\קורס קיץ תיכנות\פרויקט\ui\ui\obj\Debug\ui.pdb
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\ui.dll.config
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\ui.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\ui.pdb
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\BL.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\dto.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\EntityFramework.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\WebGrease.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\DAL.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\BL.pdb
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\BL.dll.config
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\dto.pdb
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\EntityFramework.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\DAL.pdb
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\bin\DAL.dll.config
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\obj\Debug\UI.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\obj\Debug\ui.dll
+C:\Users\user1\Desktop\פרויקט חדש\ui\ui\obj\Debug\ui.pdb
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\ui.dll.config
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\ui.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\ui.pdb
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\csc.exe
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\csc.exe.config
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\csc.rsp
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\csi.exe
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\csi.exe.config
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\csi.rsp
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.AppContext.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Console.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.IO.Compression.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.IO.Pipes.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Security.AccessControl.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Security.Claims.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.ValueTuple.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Xml.XPath.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\vbc.exe
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\vbc.exe.config
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\vbc.rsp
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\VBCSCompiler.exe
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\Antlr3.Runtime.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\BL.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\dto.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\EntityFramework.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\EntityFramework.SqlServer.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\Newtonsoft.Json.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Net.Http.Formatting.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Cors.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Helpers.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Http.Cors.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Http.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Http.WebHost.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Mvc.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Optimization.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Razor.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.WebPages.Deployment.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.WebPages.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.WebPages.Razor.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\WebGrease.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\DAL.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\BL.pdb
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\BL.dll.config
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\dto.pdb
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\EntityFramework.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\EntityFramework.SqlServer.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Net.Http.Formatting.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Http.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Http.Cors.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\Newtonsoft.Json.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Helpers.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Http.WebHost.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Mvc.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Optimization.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.Razor.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.WebPages.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.WebPages.Deployment.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\System.Web.WebPages.Razor.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\Antlr3.Runtime.pdb
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\DAL.pdb
+D:\Users\משפחת שפיצר\Downloads\ui\ui\bin\DAL.dll.config
+D:\Users\משפחת שפיצר\Downloads\ui\ui\obj\Debug\UI.csprojAssemblyReference.cache
+D:\Users\משפחת שפיצר\Downloads\ui\ui\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Users\משפחת שפיצר\Downloads\ui\ui\obj\Debug\UI.csproj.CopyComplete
+D:\Users\משפחת שפיצר\Downloads\ui\ui\obj\Debug\ui.dll
+D:\Users\משפחת שפיצר\Downloads\ui\ui\obj\Debug\ui.pdb
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\ui.dll.config
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\ui.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\ui.pdb
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\csc.exe
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\csc.exe.config
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\csc.rsp
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\csi.exe
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\csi.exe.config
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\csi.rsp
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\Microsoft.Managed.Core.targets
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.AppContext.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Collections.Immutable.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Console.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.IO.Compression.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.IO.FileSystem.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.IO.Pipes.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Reflection.Metadata.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Security.AccessControl.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Security.Claims.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Security.Principal.Windows.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.ValueTuple.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Xml.XmlDocument.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Xml.XPath.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\vbc.exe
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\vbc.exe.config
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\vbc.rsp
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\VBCSCompiler.exe
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\roslyn\VBCSCompiler.exe.config
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Antlr3.Runtime.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\BL.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\dto.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\EntityFramework.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\EntityFramework.SqlServer.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.Web.Infrastructure.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Newtonsoft.Json.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Net.Http.Formatting.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Cors.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Helpers.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Http.Cors.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Http.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Http.WebHost.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Mvc.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Optimization.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Razor.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.WebPages.Deployment.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.WebPages.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.WebPages.Razor.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\WebGrease.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\DAL.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\BL.pdb
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\BL.dll.config
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\dto.pdb
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\EntityFramework.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\EntityFramework.SqlServer.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Net.Http.Formatting.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Http.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Http.Cors.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Newtonsoft.Json.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Helpers.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Http.WebHost.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Mvc.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Optimization.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.Razor.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.WebPages.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.WebPages.Deployment.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\System.Web.WebPages.Razor.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Antlr3.Runtime.pdb
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\DAL.pdb
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\DAL.dll.config
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\obj\Debug\UI.csprojAssemblyReference.cache
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\obj\Debug\UI.csproj.CoreCompileInputs.cache
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\obj\Debug\UI.csproj.CopyComplete
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\obj\Debug\ui.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\obj\Debug\ui.pdb
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.Owin.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.Owin.Security.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Owin.dll
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.AspNet.SignalR.Core.pdb
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.Owin.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\יעלי\קורס קיץ תיכנות\react\פרויקט גמר\אחרון\סי שארפ מאוחד\ui\ui\bin\Microsoft.Owin.Security.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\ui.dll.config
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\ui.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\ui.pdb
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\BL.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\dto.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\EntityFramework.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.Owin.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.Owin.Security.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Owin.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\WebGrease.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\DAL.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\BL.pdb
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\BL.dll.config
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\dto.pdb
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\EntityFramework.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.Owin.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.Owin.Security.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\DAL.pdb
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\bin\DAL.dll.config
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\obj\Debug\UI.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\obj\Debug\ui.dll
+C:\Users\user1\Desktop\פרויקט שנה ב מתעדכן\ui\ui\obj\Debug\ui.pdb
